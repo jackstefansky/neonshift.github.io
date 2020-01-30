@@ -1,7 +1,7 @@
 ## We create amazing games
 
 Our passion is to create games. We love it and it gives us a lot of fun. You can see here what we built.
-We also create apps! Ceck our portfolio: [https://jackstefansky.github.io/]jackstefansky.github.io
+We also create apps! Ceck our portfolio: [https://jackstefansky.github.io/](jackstefansky.github.io)
 
 ### Neon Defender
 
