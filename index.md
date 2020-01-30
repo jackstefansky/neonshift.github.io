@@ -5,14 +5,27 @@ Our passion is to create games. We love it and it gives us a lot of fun. You can
 ### Neon Defender
 
 Neon defender is our freshest game. We still working on it. There will be more fetures, but we think it looks good event now :)
+Click on image to go to the video.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/W3Vg43D2Jjs/0.jpg)](https://www.youtube.com/watch?v=W3Vg43D2Jjs)
 
 
-### Jekyll Themes
+### Neon Shift
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jackstefansky/neonshift.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Neon shift was the game that we created for contest "Razem do zawodu". It's arcade game wher you have to avoid obstacles, walls and collect stars. You can also collect boosts that makes game even more cool. It was our biggest project and we are really proud of it.
+Click on image to go to the video.
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bclSmNK87o0/0.jpg)](https://www.youtube.com/watch?v=bclSmNK87o0)
+
+
+### Gravity Change
+
+Gravity Change is our first project. We wanted to show our friends that we can create games.
+It was really fun and we learnt many new things by creating this game
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7bkLtEn6HmA/0.jpg)](https://www.youtube.com/watch?v=7bkLtEn6HmA)
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can contact with us by email: stefphan01@gmail.com or lukasz.borkowski2525@gmail.com
