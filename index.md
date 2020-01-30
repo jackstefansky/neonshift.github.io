@@ -1,15 +1,12 @@
-## Welcome to GitHub Pages
+## We create amazing games
 
-You can use the [editor on GitHub](https://github.com/jackstefansky/neonshift.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Our passion is to create games. We love it and it gives us a lot of fun. You can see here what we built.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Neon Defender
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Neon defender is our freshest game. We still working on it. There will be more fetures, but we think it looks good event now :)
 ```markdown
-Syntax highlighted code block
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/W3Vg43D2Jjs/0.jpg)](https://www.youtube.com/watch?v=W3Vg43D2Jjs)
 
 # Header 1
 ## Header 2
